@@ -6,6 +6,10 @@ An analysis of their content categories that highlights the top 5 categories wit
 - Over 100,000 posts per day. 
 - Over 36,500,000 contents per year. 
 - Identifying Top 5 Categories.
+![Categories by Popularity score](https://github.com/Brajesh05/Analysis-of-Content-Category-/assets/85166343/ea53bdca-9428-428c-a5be-ececd4be9247)
+![% popularity of top 5 categories](https://github.com/Brajesh05/Analysis-of-Content-Category-/assets/85166343/61dc0504-ab79-4fee-9dd4-2806722724e5)
+
+
 
 ## Data Sources: 
 - Content Data : The dataset used for this analysis is the "content_data.csv" file, containing the detailed information about the content being prefered by users.
